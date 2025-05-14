@@ -1,3 +1,4 @@
+---
 title: Test To Maths Solution LLM
 emoji: 🐠
 colorFrom: blue
@@ -8,3 +9,4 @@ app_file: app.py
 pinned: false
 short_description: Text to maths solution application
 license: apache-2.0
+---
